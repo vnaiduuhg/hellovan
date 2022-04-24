@@ -8,7 +8,7 @@ public class HelloWorldController {
 	
 	@GetMapping("/")
 	public String helloAwsWorld() {
-		return "Welcome to AWS docker world!!!";
+		return "Welcome to Spring AWS docker world!!!";
 	}
 
 }
